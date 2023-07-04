@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskakovs)](https://github.com/iskakovs/github-readme-stats) [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iskakovs)](https://github.com/iskakovs/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iskakovs)](https://github.com/iskakovs/github-contribution-stats/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskakovs)](https://github.com/iskakovs/github-readme-stats) 
 
 
 ### Hi there 👋

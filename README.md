@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskakovs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iskakovs)](https://github.com/iskakovs/github-contribution-stats/)
 
 

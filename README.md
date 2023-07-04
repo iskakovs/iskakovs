@@ -1,8 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iskakovs)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskakovs)](https://github.com/iskakovs/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iskakovs)](https://github.com/iskakovs/github-readme-stats)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iskakovs)](https://github.com/iskakovs/github-contribution-stats/)
 

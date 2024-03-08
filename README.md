@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![committers.top badge](https://user-badge.committers.top/kazakhstan/iskakovs.svg)](https://user-badge.committers.top/kazakhstan/iskakovs)
